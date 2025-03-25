@@ -1,0 +1,12 @@
+﻿*** Padrões Estruturais
+Os padrões estruturais focam na organização e composição de classes e objetos, melhorando a flexibilidade e 
+reutilização do código.
+
+Lista de Padrões Estruturais:
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy

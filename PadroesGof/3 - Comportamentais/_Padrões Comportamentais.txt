@@ -1,0 +1,11 @@
+﻿*** Padrões Comportamentais
+Os padrões comportamentais focam em definir interações entre objetos para criar sistemas flexíveis e bem organizados.
+
+Lista de Padrões Comportamentais:
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer

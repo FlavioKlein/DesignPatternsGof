@@ -1,0 +1,9 @@
+﻿*** Padrões Criacionais
+Os padrões criacionais ajudam na criação de objetos, tornando o código mais flexível e desacoplado.
+
+Lista de Padrões Criacionais:
+Abstract Factory
+Builder
+Factory Method
+Prototype
+Singleton
