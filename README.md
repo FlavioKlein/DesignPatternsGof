@@ -1,15 +1,15 @@
 ﻿# DesignPatternsGof
 
-Projeto de teste para aplicação dos 23 padrões do GOF
+Applying the 23 GOF patterns
 
-# Criacionais
+# Creational Design Patterns
 Abstract Factory;
 Builder;
-Favtory Method;
+Factory Method;
 Prototype;
 Singleton
 
-# Estruturais
+# Structural Design Patterns
 Adapter;
 Bridge;
 Composite;
@@ -18,7 +18,7 @@ Facade;
 Flyweight;
 Proxy
 
-# Comportamentais
+# Behavioral Patterns
 ChainOfResponsability;
 Command;
 Interpreter;
